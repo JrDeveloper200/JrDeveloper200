@@ -14,7 +14,7 @@
 
 ## My Featured Projects 👨‍🏭
 
-### ***[Pizzaria Itália- (Project Portfolio)](http://pizzariaitalia.ezyro.com/)*** 📱🌎💻
+### ***[Pizzaria Itália - (Project Portfolio)](http://pizzariaitalia.ezyro.com/)*** 📱🌎💻
 
 ### ***[Linux Mint - (Project Portfolio)](https://github.com/JrDeveloper200/Site-Completo-Bootstrap)*** 📱🌎💻
 
