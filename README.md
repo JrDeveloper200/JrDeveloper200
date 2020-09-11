@@ -14,6 +14,8 @@
 
 ## My Featured Projects 👨‍🏭
 
+### ***[Pizzaria Itália- (Project Portfolio)](http://pizzariaitalia.ezyro.com/)*** 📱🌎💻
+
 ### ***[Linux Mint - (Project Portfolio)](https://github.com/JrDeveloper200/Site-Completo-Bootstrap)*** 📱🌎💻
 
 ### ***[Conversor de Moedas Flutter - (Android/IOS)](https://github.com/JrDeveloper200/Conversor_Flutter)*** 📱🌎
