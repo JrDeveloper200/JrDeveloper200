@@ -8,13 +8,13 @@
 
 - 🌎 I'm from Arujá - São Paulo / Brazil
 - 🎮 I like to play video games, especially games of races and platform!
-- 💻 **Languages:** HTML, CSS, JavaScript, PHP, Java, Kotlin and Dart. In the future I plan to study Artificial Intelligence with Python🤖
-- 🔧 **Tools:** Visual Studio Code, Android Studio, Eclipse and GitHub
+- 💻 **Languages:** HTML, CSS, JavaScript, PHP, Java and Dart. In the future I plan to study Artificial Intelligence with Python🤖
+- 🔧 **Tools:** WordPress, Visual Studio Code, Android Studio, Eclipse and GitHub
 - 🎓 **Academic:** Technology Degree in System Analysis and Development  
 
 ## My Featured Projects 👨‍🏭
 
-### ***[Pizzaria Itália - (Project Portfolio)](http://pizzariaitalia.ezyro.com/)*** 📱🌎💻
+### ***[Pizzaria Itália - (Project Portfolio)](http://pizzariaitalia.epizy.com/)*** 📱🌎💻
 
 ### ***[Linux Mint - (Project Portfolio)](https://github.com/JrDeveloper200/Site-Completo-Bootstrap)*** 📱🌎💻
 
