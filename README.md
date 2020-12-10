@@ -1,7 +1,7 @@
 # Hello World <💻🌎🌐/>
 
 ## I'm Isac Almeida Junior 👨‍💻 
-**Web Developer and Junior Android Developer 📱**
+**Web Developer and Android Developer 📱**
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://jrdeveloper200.github.io/Isac-Junior.github.io/)](https://jrdeveloper200.github.io/Isac-Junior.github.io/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isac-de-almeida-junior)](https://www.linkedin.com/in/isac-de-almeida-junior)
