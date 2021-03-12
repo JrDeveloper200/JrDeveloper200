@@ -14,6 +14,8 @@
 
 ## My Featured Projects 👨‍🏭
 
+### ***[JrDevDigital - Site Institucional e Blog (Micro-Empresa - Autônomo) - Visite o Site](https://www.jrdevdigital.com.br/)*** 📱🌎💻
+
 ### ***[Pizzaria Itália - (Project Portfolio)](http://pizzariaitalia.epizy.com/)*** 📱🌎💻
 
 ### ***[Linux Mint - (Project Portfolio)](https://github.com/JrDeveloper200/Site-Completo-Bootstrap)*** 📱🌎💻
