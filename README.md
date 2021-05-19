@@ -3,7 +3,6 @@
 ## I'm Isac Almeida Junior 👨‍💻 
 **Web Developer and Android Developer 📱**
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://jrdeveloper200.github.io/Isac-Junior.github.io/)](https://jrdeveloper200.github.io/Isac-Junior.github.io/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isac-de-almeida-junior)](https://www.linkedin.com/in/isac-de-almeida-junior)
 
 - 🌎 I'm from Arujá - São Paulo / Brazil
@@ -16,9 +15,13 @@
 
 ### ***[JrDevDigital - Site Institucional e Blog (Micro-Empresa - Autônomo) - Visite o Site](https://www.jrdevdigital.com.br/)*** 📱🌎💻
 
+### ***[Smart Delivery Fast Food - (Project Portfolio)](http://smartdelivery.epizy.com/)*** 📱🌎💻
+
 ### ***[Pizzaria Itália - (Project Portfolio)](http://pizzariaitalia.epizy.com/)*** 📱🌎💻
 
 ### ***[Linux Mint - (Project Portfolio)](https://github.com/JrDeveloper200/Site-Completo-Bootstrap)*** 📱🌎💻
+
+### ***[DevQuiz NLW5 Flutter - (Android/IOS)](https://github.com/JrDeveloper200/dev_quiz_nlw5_flutter)*** 📱🌎
 
 ### ***[Conversor de Moedas Flutter - (Android/IOS)](https://github.com/JrDeveloper200/Conversor_Flutter)*** 📱🌎
 
